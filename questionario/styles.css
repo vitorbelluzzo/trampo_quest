@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    font-size: 14px;
+    color:white;
+}
+th {
+    background-color: #3c3f41;
+}
+#summary {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
+}
+#good-signs, #bad-signs {
+    display: inline-block;
+    padding: 2px;
+    background-color: #000000;
+    width: 20px;
+    height: 20px;
+    color:white;
+    border-radius: 3px;
+}
+body {
+    background-color: #3c3f41;
+}
+.decision {
+    display: block;
+    color: white;
+  }
+  
